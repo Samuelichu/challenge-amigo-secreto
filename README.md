@@ -19,10 +19,10 @@ permite a los usuarios ingresar nombres de participantes, mostrarlos en una list
       ```bash
       git clone https://github.com/usuario/amigo-secreto.git](https://github.com/Samuelichu/challenge-amigo-secreto.git
       
-   2. Abrir el archivo HTML
+   2. Abrir el archivo HTML:
    Ubica y abre el archivo `index.html` en tu navegador.
    
-   3. Agregar nombres de amigos
+   3. Agregar nombres de amigos:
    - Escribe un nombre en el campo de texto.
    - Haz clic en el botón **"Añadir"** para que aparezca en la lista.
 
@@ -35,6 +35,7 @@ permite a los usuarios ingresar nombres de participantes, mostrarlos en una list
 
 
 Para reiniciar la lista, recarga la página y podrás empezar de nuevo.
+
 
 
 
