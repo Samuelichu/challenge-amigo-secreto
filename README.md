@@ -28,13 +28,14 @@ permite a los usuarios ingresar nombres de participantes, mostrarlos en una list
 
 <br> <img width="1366" height="592" alt="sngresarAmigo" src="https://github.com/user-attachments/assets/6f688ce1-2b27-4ec1-ba7d-63873f372657" />
 
-   4. Sortear un amigo secreto
+   4. Sortear un amigo secreto:
    Luego de registrar todos los nombres, haz clic en el botón **"Sortear Amigo"** para elegir un amigo secreto al azar.
 
 <br><img width="1366" height="592" alt="sortearAmigo" src="https://github.com/user-attachments/assets/ec649fc2-2da7-42af-bcce-003ea9369def" />
 
 
 Para reiniciar la lista, recarga la página y podrás empezar de nuevo.
+
 
 
 
